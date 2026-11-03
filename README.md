@@ -1,4 +1,4 @@
-# FlickWav<div align="center">
+# FlickWave<div align="center">
 
 # 🎬 FlickWave
 
